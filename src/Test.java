@@ -8,4 +8,8 @@ public class Test {
             System.out.println("1 == 1");
         }
     }
+
+    public static void stuff() {
+        System.out.println("stuff");
+    }
 }
